@@ -9,3 +9,7 @@
 hr{
     background: white;
 }
+body {
+    background-image: url(fondo.jpg);
+    background-size: cover;
+}
