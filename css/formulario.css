@@ -14,3 +14,15 @@ body {
 .form-control, .btn {
     min-height: 3.125rem;
 }
+
+.navbar a:hover {
+    background: rgb(214, 15, 15);
+}
+.contacto {
+    background: rgba(0, 0, 0, .6);
+    color: white;
+    margin-top: 100px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px grey;
+    
+}

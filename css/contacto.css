@@ -9,7 +9,21 @@
 hr{
     background: white;
 }
+.boton {
+    margin-top: 30px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     background-image: url(fondo.jpg);
     background-size: cover;
+}
+
+.navbar a:hover {
+    background: rgb(214, 15, 15);
+}
+img{
+    margin: 0px 0px 20px 0px;
 }

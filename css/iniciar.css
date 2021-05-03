@@ -14,3 +14,7 @@ body {
 .form-control, .btn {
     min-height: 3.125rem;
 }
+
+.navbar a:hover {
+    background: rgb(214, 15, 15);
+}
